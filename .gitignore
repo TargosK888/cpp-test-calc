@@ -1,4 +1,3 @@
 .vs
 *.vsidx
-x64/Debug/CalcTutor.exe
-x64/Debug/CalcTutor.pdb
+x64/
